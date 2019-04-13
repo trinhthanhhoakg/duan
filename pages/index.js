@@ -17,6 +17,12 @@ export default () => {
       eventName: 'quẩy',
       location: 'VN',
       tag: 'coding'
+    },
+    {
+      data: '6/7/2017',
+      eventName: 'hòa',
+      location: 'VietNamese',
+      tag: 'coding'
     }
   ]
   return (
